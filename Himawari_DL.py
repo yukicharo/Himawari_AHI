@@ -1,3 +1,10 @@
+########################################### Himawari_DL.py ###################################################
+# Created by Yuki Mizuno
+# Last Updated: 2025/06/13
+# Download Himawari-8/9 AHI TOA data from CEReS ftp server
+# Based on this document "https://ceres.chiba-u.jp/geoland/wp-content/uploads/2022/09/JPGU2022ver1.3_0529.pdf"
+##############################################################################################################
+
 import wget  # wget モジュールの import
 import bz2   # 解凍用モジュール
 import os    # os モジュール
