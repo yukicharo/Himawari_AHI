@@ -1,4 +1,4 @@
-######################################################3#### Himawari_DL.py #################################################################
+########################################################### Himawari_DL.py #################################################################
 # Created by Yuki Mizuno
 # Last Updated: 2025/04/11
 # Extract scope of AOI from Himawari-8/9 AHI and convert from DN to TOA reflectance (multipied by 100) using LUT (by CEReS)
