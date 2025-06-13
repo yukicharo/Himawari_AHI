@@ -1,7 +1,7 @@
 ######################################################3#### Himawari_DL.py #################################################################
 # Created by Yuki Mizuno
 # Last Updated: 2025/04/11
-# Extract scope of AOI from Himawari-8/9 AHI and convert from DN to reflectance using LUT (by CEReS)
+# Extract scope of AOI from Himawari-8/9 AHI and convert from DN to TOA reflectance (multipied by 100) using LUT (by CEReS)
 # Based on this document "https://ceres.chiba-u.jp/geoland/wp-content/uploads/2022/09/JPGU2022ver1.3_0529.pdf"
 # You have to prepare LUT file which can be downloaded from this URL: ftp://hmwr829gr.cr.chiba-u.ac.jp/gridded/FD/support/count2tbb_v102.tgz
 ############################################################################################################################################
